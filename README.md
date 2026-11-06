@@ -1,29 +1,46 @@
- Hi, I'm Vaishnavi 👋
+ Retail Sales Data Analysis using Excel
 
-🎓 AIML Student | Aspiring Data Analyst
+Project Overview
+This project analyzes retail sales data using Microsoft Excel to understand sales performance, profit, product performance, and regional performance.
 
-I'm an Artificial Intelligence and Machine Learning student interested in Data Analytics and solving real-world business problems using data.
-
-I'm currently developing my skills in:
-
- 🛠️ Tools & Technologies
+ Tools Used
 - Microsoft Excel
-- SQL
-- Power BI
-- Python (Learning)
 
- 📊 What I'm Working On
-- Analysing real-world datasets
-- Writing SQL queries to answer business questions
-- Creating interactive Power BI dashboards
-- Finding meaningful insights from data
+ Dataset
+The dataset contains 10 retail orders with details such as:
+- Order ID and Order Date
+- Region
+- Product and Category
+- Quantity and Unit Price
+- Sales Amount and Cost Amount
+- Profit and Month
 
- 🎯 My Goal
-To become a Data Analyst and gain practical experience by working on real-world projects.
+ Excel Skills Used
+- SUM
+- COUNTA
+- AVERAGE
+- SUMIF
+- Percentage calculations
+- Data analysis and visualization
+- Dashboard creation
 
- 📂 My Projects
-I'll be adding my projects here as I learn and build.
+ Key Business Insights
+- Total Sales: ₹3,58,500
+- Total Profit: ₹83,250
+- Total Orders: 10
+- Top-Selling Product: Laptop
+- Highest Sales Region: South
+- Best Sales Month: February
 
----
+ Dashboard
+The Excel dashboard includes:
+- Total Sales
+- Total Profit
+- Total Orders
+- Profit Margin
+- Monthly Sales Performance
+- Sales by Product
+- Sales by Region
 
-*Learning, building, and improving every day!*
+ Project Objective
+The objective is to use Excel to convert raw sales data into meaningful insights that can support business decision-making.
